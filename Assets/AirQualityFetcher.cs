@@ -14,7 +14,7 @@ public class AirQualityFetcher : MonoBehaviour
     public Button fetchButtonCharleroi;
     public Button fetchButtonBrussel;
 
-    private string token = "eyJhbGciOiJIUzI1NiJ9.YjBlNDJkYTAtYzU1NS0xMWVlLWEwMTctNjFjY2JjZTExNjE0.hQV2gEBfqrdXbjsEvwylKWWSK-eflPSXWOe-QDKfKRU";
+    private string token = "Your token";
     private string baseUrl = "https://api.aircheckr.com/territory/BE/LAU2/name/";
 
     void Start()
@@ -31,7 +31,7 @@ public class AirQualityFetcher : MonoBehaviour
             fetchButtonNamur.onClick.AddListener(() => FetchData("namur"));
         }
 
-        // Liège
+        // LiÃ¨ge
         if (fetchButtonOostende != null)
         {
             fetchButtonOostende.onClick.AddListener(() => FetchData("Oostende"));
