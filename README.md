@@ -17,16 +17,18 @@ Then, the game shows air quality information for the city:
   *(For example: "Can I open my windows or not?")*  
  ![](Images/Image2.png)
  ![](Images/Image3.png)
+ ![](Images/Image3.png)
 
 ### 3. Start the Game
 After that, the player clicks a button to start the game.  
- ![](Images/Image3.png)
+ ![](Images/Image4.png)
 
 ### 4. Game Play
 The game starts!  
 The player controls a character who must find pollution particles and avoid obstacles.  
 The background changes depending on the city (for example: Atomium for Brussels).  
- ![](Images/Image4.png)
+ ![](Images/Image5.png)
+  ![](Images/Image6.png)
 
 ### 5. Learn About Pollution
 When the player finds a box (NO₂, O₃, PM10, PM2.5), a window appears:
@@ -35,7 +37,7 @@ When the player finds a box (NO₂, O₃, PM10, PM2.5), a window appears:
 - It provides simple information about the particle.
 
 This way, the player learns about pollution while playing!
- ![](Images/Image5.png)
+ ![](Images/Image7.png)
 
 
 ## Contributing
