@@ -40,9 +40,6 @@ This way, the player learns about pollution while playing!
  ![](Images/Image7.png)
 
 
-## Contributing
-
-Feel free to open issues or pull requests if you'd like to contribute to the game!
 
 
 
